@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.OtherIcons ul {
+    margin: 0;
+    padding: 0;
+}
+
+.OtherIcons ul li {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    list-style-type: none;
+}
+
+.text-pink {
+    color: rgb(224, 15, 197);
+}
+
+.smallLine {
+    height: 2px;
+    margin: 20px 0px;
+    background-color: rgb(65, 58, 58);
+}
