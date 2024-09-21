@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Devanshu-Portfolio/static/css/main.b6cf6c45.css",
+    "main.js": "/Devanshu-Portfolio/static/js/main.b385b28f.js",
+    "static/js/453.2e753c4a.chunk.js": "/Devanshu-Portfolio/static/js/453.2e753c4a.chunk.js",
+    "index.html": "/Devanshu-Portfolio/index.html",
+    "main.b6cf6c45.css.map": "/Devanshu-Portfolio/static/css/main.b6cf6c45.css.map",
+    "main.b385b28f.js.map": "/Devanshu-Portfolio/static/js/main.b385b28f.js.map",
+    "453.2e753c4a.chunk.js.map": "/Devanshu-Portfolio/static/js/453.2e753c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6cf6c45.css",
+    "static/js/main.b385b28f.js"
+  ]
+}
